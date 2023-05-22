@@ -8,6 +8,7 @@
         <HeaderNavItem href="/">Home</HeaderNavItem>
         <HeaderNavItem href="/about">About</HeaderNavItem>
         <HeaderNavItem href="/contact">Contact</HeaderNavItem>
+        <HeaderNavItem href="commands">Commands</HeaderNavItem>
     </HeaderNav>
 </Header>
 
