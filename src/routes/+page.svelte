@@ -1,5 +1,11 @@
 <script lang="ts">
-
+    import { Column, Grid, Row } from "carbon-components-svelte";
 </script>
 
-<h1>Hello</h1>
+<Grid>
+    <Row>
+        <Column>
+            <h1>Solarion2 Kit-Bot</h1>
+        </Column>
+    </Row>
+</Grid>
